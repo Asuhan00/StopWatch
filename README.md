@@ -1,3 +1,3 @@
 # StopWatch
 
-Simple stopwatch made in py game
+Simple stopwatch made in pygame
